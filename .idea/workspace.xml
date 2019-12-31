@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="372b7541-33ef-4bdf-a3e4-045c4ffbaaba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GEco_data_analysis" />
+  </component>
+  <component name="ProjectId" id="1VSbu8g1h0A2HJpurwtuaGqGSSB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MGromysch/Auto_Scheduler_PPT_Gen_Box_Plot_RevJ.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.WEco_Rule1 (2)">
+    <configuration name="Auto_Scheduler_PPT_Gen_Box_Plot_RevJ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GEco_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auto_Scheduler_PPT_Gen_Box_Plot_RevJ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Auto_Scheduler_PPT_Gen_Box_Plot_RevK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GEco_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auto_Scheduler_PPT_Gen_Box_Plot_RevK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WEco_Rule1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GEco_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/WEco_Rule1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WEco_Rule1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GEco_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEco_Rule1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WEco_Rule1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GEco_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\14152\.PyCharmCE2019.3\config\scratches\WEco_Rule1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GEco_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\14152\.PyCharmCE2019.3\config\scratches\python_notes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Auto_Scheduler_PPT_Gen_Box_Plot_RevJ" />
+      <item itemvalue="Python.Auto_Scheduler_PPT_Gen_Box_Plot_RevK" />
+      <item itemvalue="Python.python_notes" />
+      <item itemvalue="Python.WEco_Rule1" />
+      <item itemvalue="Python.WEco_Rule1 (1)" />
+      <item itemvalue="Python.WEco_Rule1 (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.WEco_Rule1 (2)" />
+        <item itemvalue="Python.WEco_Rule1 (1)" />
+        <item itemvalue="Python.WEco_Rule1" />
+        <item itemvalue="Python.Auto_Scheduler_PPT_Gen_Box_Plot_RevK" />
+        <item itemvalue="Python.python_notes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372b7541-33ef-4bdf-a3e4-045c4ffbaaba" name="Default Changelist" comment="" />
+      <created>1577249663221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577249663221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577345759089">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="310" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1577345759089" />
+    <state x="589" y="278" width="527" height="418" key="EnvironmentVariablesDialog" timestamp="1577310901159">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="589" y="278" width="527" height="418" key="EnvironmentVariablesDialog/0.0.1707.920@0.0.1707.920" timestamp="1577310901159" />
+    <state x="635" y="217" key="FileChooserDialogImpl" timestamp="1577752247312">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="635" y="217" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1577752247312" />
+    <state width="1686" height="17" key="GridCell.Tab.0.bottom" timestamp="1577522675388">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="17" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1577522675388" />
+    <state width="1686" height="17" key="GridCell.Tab.0.center" timestamp="1577522675388">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="17" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1577522675388" />
+    <state width="1686" height="17" key="GridCell.Tab.0.left" timestamp="1577522675388">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="17" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1577522675388" />
+    <state width="1686" height="17" key="GridCell.Tab.0.right" timestamp="1577522675388">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="17" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1577522675388" />
+    <state width="1686" height="300" key="GridCell.Tab.1.bottom" timestamp="1577327557095">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1577327557095" />
+    <state width="1686" height="300" key="GridCell.Tab.1.center" timestamp="1577327557095">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1577327557095" />
+    <state width="1686" height="300" key="GridCell.Tab.1.left" timestamp="1577327557095">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1577327557095" />
+    <state width="1686" height="300" key="GridCell.Tab.1.right" timestamp="1577327557095">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1577327557095" />
+    <state x="595" y="81" key="SettingsEditor" timestamp="1577311984006">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="595" y="81" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1577311984006" />
+    <state x="552" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1577266006619">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="552" y="286" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1577266006619" />
+  </component>
+</project>
